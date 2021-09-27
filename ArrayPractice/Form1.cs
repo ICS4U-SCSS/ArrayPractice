@@ -36,7 +36,7 @@ namespace ArrayPractice
 
             //2. Display array 1
 
-            for (int i = 0; i < array1.Length; i++)
+            for (int i = 0; i < array1.Length;  i++)
             {
                 array1Output.Text += $"{array1[i]} ";
             }
